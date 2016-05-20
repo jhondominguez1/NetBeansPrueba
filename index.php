@@ -1,4 +1,5 @@
 <?php
+//ESTE COMENTARIO LO HIZO WILSON
     session_start();
     include "cabezal.php";
     // aqui por lo pronto voy a mostrar todos los datos de la tabla productos y los voy a mostrar en una tabla 
